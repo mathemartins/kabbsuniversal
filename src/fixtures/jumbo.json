@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "title": "Pay buy card or cash",
+      "subTitle": "Kabbs Universal knows that everyone feels different about paying with cards. That's why the app gives you a choice of paying with card or cash. You can add multiple cards on file and chose to pay with any of them.",
+      "image": "/images/misc/home-tv.jpg",
+      "alt": "Payment",
+      "direction": "row"
+    },
+    {
+      "id": 2,
+      "title": "Get discount on rates",
+      "subTitle": "Use Promo Codes to get trips discounts.Enter your Promo Code and tap apply Please note promo codes are authomatically applied in reverse order. Your most recently added promo code will be applied to your current or next trip.",
+      "image": "/images/misc/home-mobile.jpg",
+      "alt": "Discount",
+      "direction": "row-reverse"
+    }
+  ]
